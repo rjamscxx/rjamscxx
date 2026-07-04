@@ -11,7 +11,7 @@ I build business software for real, small operations: POS systems, booking platf
 | [Tenda Pro](https://github.com/rjamscxx/tenda-pro) | Restaurant & café OS: POS, QR menus, COGS tracking, payroll, reports | [tenda.ph](https://tenda.ph) |
 | [Banot's Barbershop](https://github.com/rjamscxx/banots-barbershop) | Booking system for a one-chair barbershop, with a PH QR payment-proof flow | [banots-barbershop.vercel.app](https://banots-barbershop.vercel.app) |
 | [Checkout Hub PH](https://github.com/rjamscxx/checkout-hub-ph) | The origin project: the business manager I built for my own store | [checkout-hub-ph.vercel.app](https://checkout-hub-ph.vercel.app) |
-| Courtside PH | Court reservation PWA covering 6 sports, with QR check-in | [courtside-ph.vercel.app](https://courtside-ph.vercel.app) |
+| [Courtside PH](https://github.com/rjamscxx/courtside-ph) | Court reservation PWA covering 6 sports, with QR check-in | [courtside-ph.vercel.app](https://courtside-ph.vercel.app) |
 | Gold Palace | Streetwear storefront + owner dashboard for a Manila brand | [gold-palace-streetwear.vercel.app](https://gold-palace-streetwear.vercel.app) |
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Prisma · Neon Postgres · Vercel
